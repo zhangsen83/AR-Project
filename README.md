@@ -9,5 +9,6 @@ IOS:
 2) After downloading, open the app and scan the poster and align with Zappar Logo at the center of the poster
   
 3) Enjoy the AR Poster Experience!!!
+---
 ![Zappar Poster](img.png)
-
+---
